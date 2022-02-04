@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# macOS Stuff
+.DS_Store/
+
+# PyCharm Stuff
+__pycache__/
+.idea/
